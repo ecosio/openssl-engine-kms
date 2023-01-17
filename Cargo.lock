@@ -691,6 +691,7 @@ version = "0.1.0"
 dependencies = [
  "bytes",
  "env_logger",
+ "futures",
  "lazy_static",
  "libc",
  "log",
